@@ -29,3 +29,6 @@ Lancer "Setup.bat"
 
 # 🚀 Utilisation
 Lancer le script : RTP TOOL ou Version 2
+
+# 💫 Apercu
+![image](https://github.com/user-attachments/assets/efa72255-78e3-44e6-bee9-fce306e1efc2)
